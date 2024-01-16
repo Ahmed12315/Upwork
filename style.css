@@ -1,0 +1,117 @@
+li{
+    display: inline-block;
+    width: fit-content;
+}
+.none:hover{
+    color: green;
+
+} 
+.none{
+    text-decoration: none;
+    color: black;
+    font-size: 20;
+    font-family:cursive;
+}
+.UpWork{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: greenyellow;
+    text-decoration: none;
+    font-family:lemon ;
+    text-align:left;
+    
+
+
+}
+input.search{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px ;
+    text-align: justify   ;
+    margin-left: 400px;
+}
+input.search:hover{
+    background-color: rgba(128, 128, 128, 0.229);
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+}
+.a{
+    color: black;
+    
+}
+.a:hover{
+    color: green;
+}
+.b{
+    
+    background-color: green;
+    border-radius: 100px;
+
+}
+.b:hover{
+    background-color: rgba(84, 230, 84, 0.937);
+}
+@font-face {
+    font-family:lemon ;
+    src: url(./font/Lemon-Regular.ttf);
+}
+.left{
+    float: left;
+    padding: 100px 30px 30px 100px;
+    
+}
+.right{
+    float: right;
+}
+h1{
+    color: greenyellow;
+    font-size: 80px;
+
+}
+.c, .d, .e, .f, .g, .h{
+    margin-left: 10px;
+    font-family: cursive;
+    text-decoration: none;
+    color: black;
+
+}
+.c:hover{
+    color: green;
+    text-decoration: underline;
+}
+.d:hover{
+    color: green;
+    text-decoration: underline;
+}
+.e:hover{
+    color: green;
+    text-decoration: underline;
+}
+.f:hover{
+    text-decoration: underline;
+    color: green;
+}
+.g:hover{
+    text-decoration: underline;
+    color: green;
+}
+.h:hover{
+    text-decoration: underline;
+    color: green;
+}
+.btn{
+    background-color: green;
+    border-radius: 100px;
+}
+.btn:hover{
+    background-color: rgba(84, 230, 84, 0.937);
+
+}
+.img{
+    width: 1500px;
+}
+p{
+    font-size: 20px;
+}
